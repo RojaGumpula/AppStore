@@ -40,6 +40,7 @@
   border-style: none;
   border-width: 0px;
   padding: 5px;
+  outline:none;
 }
 .search-icon {
   height: 20px;
